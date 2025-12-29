@@ -1,0 +1,27 @@
+{
+  "project_name": "Rofia-Uz-Phonetic-Model",
+  "author": "Turgunoy Khidirova (Rofia)",
+  "university": "GulDU",
+  "data_samples": [
+    {
+      "category": "Literature",
+      "text": "Ishqning osmonida oyga qo'shilib",
+      "phonetic_notes": "i-reduction in 'osmonida', specific stress on 'lar' in 'bulutlar', short 'a' in 'kuyday'"
+    },
+    {
+      "category": "Banking",
+      "text": "Hisobingizda mablag' yetarli emas",
+      "phonetic_notes": "soft glottal 'h', reduced 'i', velar nasal 'ng' as one unit"
+    },
+    {
+      "category": "Medical",
+      "text": "Qon bosimingizni o'lchash kerak",
+      "phonetic_notes": "unrounded 'o', stress shift in 'bosimingizni', clear 'j' articulation"
+    },
+    {
+      "category": "Transport",
+      "text": "Keyingi bekat - Paxtakor",
+      "phonetic_notes": "reduced 'i' in 'keyingi', primary stress on 'o' in 'Paxtakor'"
+    }
+  ]
+}
